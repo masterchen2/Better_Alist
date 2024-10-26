@@ -6,7 +6,7 @@ Koyuki
 */
 
 body{
-	background-image:url('http://www.98qy.com/sjbz/api.php');//将此处替换为你自己的背景图api地址
+	background-image:url('https://api.horosama.com/random.php');//将此处替换为你自己的背景图api地址
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
